@@ -6,5 +6,5 @@ Cursor Pool 让您轻松实现一键切换账户和重置机器码，有效解�
 
 - 快速切换不同的 Cursor 账户
 - 一键重置机器码，解决使用限制
-![Uploading image.png…](https://github.com/qw1900/cursor_pool/blob/main/427636500-685cf784-06ae-4a19-b1a1-97c857d9ad20.png?raw=true)
+![Uploading image.png…](https://github.com/zq1900/cursor_pool/blob/main/QQ%E5%9B%BE%E7%89%8720250327232315.png?raw=true)
 [客户端下载](https://github.com/zq1900/cursor_pool/releases/download/cursor_pool/cursor_pool.7z)
